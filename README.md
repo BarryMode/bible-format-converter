@@ -1,4 +1,4 @@
-# [ezra.js](https://barrymode.github.io/ezra.js/)
+# ezra.js
 A framework to convert and render The Bible.
 
 ![bible](https://cloud.githubusercontent.com/assets/5648875/6840545/2ae66460-d348-11e4-891f-11b7b2a0a27c.png)
