@@ -1,7 +1,6 @@
 {
   "name": "scribe",
   "version": "0.0.1",
-  "author": "Barry Anders <barry@netforger.com>",
   "description": "Converts Bibles to JSON and HTML.",
   "dependencies" : {
     "line-reader" : "*",
