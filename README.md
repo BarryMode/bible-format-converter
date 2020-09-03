@@ -5,7 +5,7 @@ Convert Unbound, OSIS, and JSON Bibles to HTML
 
 ## Rendering Bibles
 
-Navigate to `/content/index.html` in your browser. The following versions ship with ezra.js.
+Navigate to `/content/index.html` in your browser. The following versions ship with Bible Format Converter.
 
 - American Standard Version (ASV)
 - Arabic Smith & Van Dyke (SVD)
