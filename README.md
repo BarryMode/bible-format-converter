@@ -1,5 +1,5 @@
 # Bible Format Converter
-Convert Unbound, OSIS, and JSON Bibles to HTML
+Convert Unbound and OSIS Bible formats to JSON or HTML
 
 ![bible](https://cloud.githubusercontent.com/assets/5648875/6840545/2ae66460-d348-11e4-891f-11b7b2a0a27c.png)
 
